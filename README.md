@@ -1,1 +1,1 @@
-solid-java
+SOLID-Examples
