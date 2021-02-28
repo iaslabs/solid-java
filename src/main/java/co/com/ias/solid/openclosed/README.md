@@ -1,4 +1,4 @@
-# Open/Closed principle - Principio de abierto/cerrado
+# Open/Closed principle - Principio de abierto/cerrado :thumbsup:
 
 Este principio se refiere a que nuestro dominio de la aplicación debe estar abierto a la extensión, es decir, a la
 posibilidad de abarcar nuevos casos de uso, pero a su vez debe estar cerrado a modificaciones del core de la lógica de
